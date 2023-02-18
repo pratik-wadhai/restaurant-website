@@ -1,3 +1,4 @@
 - Single Page Website
 
-image.png
+
+<img src="screenshot.png" alt="screenshot">
